@@ -12,6 +12,8 @@ public class Ejercicio1 {
 		System.out.println("Introduce el precio: ");
 		precio = teclado.nextDouble();
 		
+		//hola
+		
 		if ((precio >= 50) && (precio <= 100)) {
 			precioDescuento = (precio*POR) / 100;
 		}
